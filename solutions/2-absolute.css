@@ -12,5 +12,24 @@ body {
 }
 
 /* BEGIN (write your solution here) */
+body div{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+}
 
+.square-red {
+  background-color: #f44336;
+}
+
+.square-green {
+  background-color: #4caf50;
+  left: 200px;
+  top:200px
+}
+
+.square-blue {
+  background-color: #2196f3;
+  left: 400px;
+}
 /* END */
